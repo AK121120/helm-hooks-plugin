@@ -9,4 +9,4 @@ description: |-
 runtime: subprocess
 runtimeConfig:
   platformCommand:
-    - command: bin/helm-hooks
+    - command: "$HELM_PLUGIN_DIR/bin/helm-hooks"
