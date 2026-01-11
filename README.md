@@ -1,6 +1,7 @@
 # helm-hooks-plugin
 
-Helm plugin for [helm-hooks](https://github.com/AK121120/helm-hooks) - per-hook weights and environment injection.
+Helm plugin for [helm-hooks](https://github.com/AK121120/helm-hooks) - the **Advanced Hook Manager** for Helm 4.
+It enables per-hook weights and environment injection by automatically splitting multi-hook resources.
 
 ## Installation (Helm 4)
 
